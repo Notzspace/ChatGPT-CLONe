@@ -1,17 +1,21 @@
 # ChatGPT-CLONe
-A lightweight ChatGPT-style web app with a modular Node.js backend and responsive frontend UI. Built for learning, tinkering, and experimenting with conversational AI interfaces.
-# ChatGPT Clone
 
-A lightweight, full-stack chatbot clone with a Node.js backend and simple, responsive frontend UI.
+ChatGPT-CLONe is a powerful chatbot framework built to mimic the functionalities of OpenAI's ChatGPT. This project aims to provide a conveniently deployable and customizable chatbot that can be integrated into various applications.
+
+## Features
+- Natural Language Processing
+- Multi-turn conversations
+- Customizable responses
+- Easy integration with API
 
 ## Getting Started
 
-1. `cd backend && npm install`
-2. `node server.js`
-3. Open `frontend/index.html` in browser
+### Prerequisites
+- Python 3.8+
+- pip package manager
 
-## Features
-
-- Simulated chatbot API
-- Modular file structure
-- Easy to customize and expand
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Notzspace/ChatGPT-CLONe.git
+   cd ChatGPT-CLONe
